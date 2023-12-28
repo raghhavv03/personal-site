@@ -81,6 +81,13 @@
     color:#434242;
     font-size:2rem;
 }
+.portfolio p{
+    margin:0;
+    padding:5px 0px 5px 0px;
+    font-size:1.25rem;
+    font-weight:500;
+    color:#434242;
+}
 .portfolio a{
     margin:0;
     padding:5px 0px 5px 0px;
